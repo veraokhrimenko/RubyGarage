@@ -1,20 +1,18 @@
 RubyGarage
 ==========
 
-Using language, framewroks, software:
- FrontEnd:
- ---------
+####Frontend:
  - javascipt
  - knockout
  - jquery
  - jquery ui datepicker 
- Backend
- -------
+
+####Backend:
  - php
  - sql
  - denwer 5.3
  
- Base functionality:
+####Base functionality:
  - **Add to do list** : type list name and click 'Add todo list'
  - **Delete to do list** : click  to the right on basket icon
  - **Edit to do list** : click to the right on edit icon, edit title, click to the right on save button
@@ -25,5 +23,5 @@ Using language, framewroks, software:
  - **Choose deadline** : click to the "choose deadline" and select date. If task is expired it is highlighting
  - **Mark as done** : check checkbox to the left. If task is done it is strikethrough and user not able to edit this task. 
  
- SQL task: 
+####SQL task: 
  - In "SQL tasks"  all tasks for sql query. Click on appropriate task and see answer in "Answer" section
