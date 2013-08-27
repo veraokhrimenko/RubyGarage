@@ -2,12 +2,12 @@ RubyGarage
 ==========
 
 Using language, framewroks, software:
- - FrontEnd:
- -- javascipt
- -- knockout
- -- jquery
- -- jquery ui datepicker 
- - Backend
+ ### FrontEnd:
+ - javascipt
+ - knockout
+ - jquery
+ - jquery ui datepicker 
+ ### Backend
  - php
  - sql
  - denwer 5.3
