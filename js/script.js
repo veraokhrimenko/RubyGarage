@@ -147,7 +147,6 @@
 				var arrPosition = currPosition+1;
 			}
 			if (replaceId && replacePosition){
-			console.log(replaceId,replacePosition)
 				$.ajax({
 					type: "POST",
 					url: 'API/edit_task.php',
