@@ -10,7 +10,7 @@
 	<script type="text/javascript" src="js/script.js"></script>
 	<script type="text/javascript" src="js/knockout-2.2.1.js"></script>	
 	<script type="text/javascript" src="js/knockout-jquery-ui-widget.js"></script>	
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />	
+	<meta http-equiv="content-type" content="text/html" charset="utf-8" />	
 </head>
 <body>
 	<div data-bind="foreach: lists">
